@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">YASA LAND</string>
+    <string name="title_activity_main">YASA LAND</string>
+    <string name="package_name">com.yasaland.playlearn</string>
+    <string name="custom_url_scheme">com.yasaland.playlearn</string>
+</resources>

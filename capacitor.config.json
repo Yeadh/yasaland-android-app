@@ -1,0 +1,8 @@
+{
+  "appId": "com.yasaland.playlearn",
+  "appName": "YASA LAND",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
