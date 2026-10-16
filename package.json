@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "@capacitor-community/text-to-speech": "^6.1.0",
-    "@capacitor/android": "^6.2.2",
-    "@capacitor/cli": "^6.2.2",
-    "@capacitor/core": "^6.2.2",
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
     "three": "^0.128.0"
   }
 }
